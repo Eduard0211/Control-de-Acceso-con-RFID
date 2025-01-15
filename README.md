@@ -11,3 +11,5 @@ El programa consiste en:
 •	Si durante el tiempo de registro se detecta la TM se anula en tiempo de registro y permanece la puerta cerrada.
 
 •	Si se vuelve a detectar una tarjeta autorizada la puerta se abrirá
+
+Ver video explicativo: (https://drive.google.com/file/d/15mP-6I72xtLQ-H9lqpEnbuUGZXZQdjM_/view?usp=drive_link)
